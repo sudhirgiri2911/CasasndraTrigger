@@ -1,0 +1,5 @@
+com/cassandra/trigger/App.class
+com/cassandra/cdc/Enjoy.class
+com/cassandra/trigger/AuditTrigger.class
+com/cassandra/cdc/CommitLogReaderExample.class
+com/cassandra/trigger/HelloWorld.class
